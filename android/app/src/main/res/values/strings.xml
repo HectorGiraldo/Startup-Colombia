@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">startupcolombia</string>
+    <string name="title_activity_main">startupcolombia</string>
+    <string name="package_name">com.hectorgiraldo.startupcolombia</string>
+    <string name="custom_url_scheme">com.hectorgiraldo.startupcolombia</string>
+</resources>
